@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1428819531 source:/home/abu-gasiem/CB-Wrokspace/c89compiler/main.cpp
+	<iostream>
+
+1428819800 source:/home/abu-gasiem/CB-Wrokspace/c89compiler/lexical.cpp
+	"lexical.h"
+
+1428819833 /home/abu-gasiem/CB-Wrokspace/c89compiler/lexical.h
+	<iostream>
+	<string.h>
+	<vector>
+	<map>
+	<fstream>
+	<assert.h>
+	<string>
+	<math.h>
+	<stdlib.h>
+	<iomanip>
+
+1428820290 source:/home/abu-gasiem/CB-Wrokspace/c89compiler/parser.cpp
+	"parser.h"
+
+1428820217 /home/abu-gasiem/CB-Wrokspace/c89compiler/parser.h
+	"lexical.h"
+
